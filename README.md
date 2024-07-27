@@ -1,8 +1,8 @@
 # Full Efficiency Prediction
 
-
-
-
+<div align="center">
+	<img src="https://github.com/Raj140503/Full-Efficiency-Prediction/blob/main/0_wjxA6-eBa6Jv1KnO.gif">
+</div>
 
 To predict fuel efficiency, I aim to predict a continuous value output, such as a price or a probability.
 

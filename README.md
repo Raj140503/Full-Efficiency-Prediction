@@ -4,6 +4,7 @@ To predict fuel efficiency, I aim to predict a continuous value output, such as 
 	<img src="https://github.com/Raj140503/Full-Efficiency-Prediction/blob/main/0_wjxA6-eBa6Jv1KnO.gif">
 </div>
 
+<br>
 
 **About the Dataset -**
 
